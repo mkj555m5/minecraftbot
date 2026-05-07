@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-bedrock-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to control Minecraft Bedrock Edition player bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^1.26.13.1",
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
