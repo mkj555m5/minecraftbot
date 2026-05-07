@@ -8,7 +8,7 @@
     "dev": "node bot.js"
   },
   "dependencies": {
-    "bedrock-protocol": "^1.26.13.1",
+    "bedrock-protocol": "^4.17.0",
     "node-telegram-bot-api": "^0.64.0"
   },
   "engines": {
